@@ -1,0 +1,37 @@
+# Business Insights Summary
+## Weather Trends and Climate Analysis – 2026
+
+### Project Overview
+This analysis explores historical weather data from five Indian cities:
+- Bengaluru
+- Mumbai
+- Delhi
+- Chennai
+- Hyderabad
+
+**Analysis Period:** January 1 – October 30, 2026
+
+### Key Areas of Analysis
+
+1. Average Temperature Comparison
+2. Total Rainfall Comparison
+3. Monthly Temperature Trends
+4. Average Wind Speed Comparison
+5. Highest and Lowest Temperature Recorded
+6. Number of Rainy Days
+7. Temperature Variation Across Cities
+8. Average Wind Gust Comparison
+9. Monthly Rainfall Comparison
+
+### Business Recommendations
+- Monitor temperature patterns across cities.
+- Use rainfall trends for water resource planning.
+- Monitor wind speed and gust patterns.
+- Study seasonal weather variations.
+- Improve weather awareness and preparedness.
+
+### Conclusion
+The project uses Python-based data analysis and visualization techniques to explore weather patterns, compare five Indian cities, and identify meaningful trends.
+
+*Note: Specific numerical findings will be added after reviewing the analysis results.*
+
